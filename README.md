@@ -43,6 +43,11 @@
 | **✋ Drag to fix it** | Drag a link onto any subtopic to move it. Reorder subtopics and pin links to the top. |
 | **🖼️ Pictures** | Upload screenshots and references in bulk. They're shrunk to WebP in your browser before upload, kept in private storage, and open in a lightbox. |
 | **↔️ Your layout** | Drag the divider between links and pictures, like split screen. |
+| **🔤 Tidy by default** | Topics and subtopics stay in A–Z order. Fold any block to its header, or fold them all at once. |
+
+<p align="center">
+  <img src="screenshots/workspace.png" alt="A shared House workspace: links sorted into subtopics on the left, pictures on the right" width="100%">
+</p>
 
 ## What it does
 
@@ -61,7 +66,7 @@
     <td width="50%"><img src="screenshots/gallery.png" alt="Gallery view: every topic at a glance"><p align="center"><sub><b>Gallery:</b> every topic at a glance</sub></p></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="screenshots/midnight-rose.png" alt="Midnight Rose, one of the calmer themes"><p align="center"><sub><b>Midnight Rose:</b> one of six calmer themes</sub></p></td>
+    <td colspan="2"><img src="screenshots/midnight-rose.png" alt="A workspace in Midnight Rose, one of the calmer themes"><p align="center"><sub><b>Midnight Rose:</b> one of six calmer themes</sub></p></td>
   </tr>
 </table>
 
